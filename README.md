@@ -1,2 +1,2 @@
 # bonustelegrambot
-Бот-магазин на Telegram
+Пример бота-магазина на Telegram
