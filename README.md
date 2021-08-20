@@ -1,2 +1,2 @@
-# vitatelegrambot
+# bonustelegrambot
 Бот-магазин на Telegram
